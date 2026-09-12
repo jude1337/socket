@@ -5,7 +5,7 @@
 
   **network, simplified.**
 
-  a modern, native ssh &amp; sftp client for iOS, built to feel like a real apple app, not an admin tool bolted onto a phone screen.
+  a modern, native ssh &amp; sftp client for iOS.
 
   [socket.strix.cx](https://socket.strix.cx)
 
