@@ -1,24 +1,49 @@
-# socket
+<div align="center">
+  <img src="assets/icon.png" width="120" alt="socket app icon" />
 
-**network, simplified.**
+  # socket
 
-Socket is a modern, native SSH and SFTP client for iOS — designed to feel like a genuine Apple app rather than a traditional enterprise admin tool.
+  **network, simplified.**
+
+  a modern, native ssh &amp; sftp client for iOS, built to feel like a real apple app, not an admin tool bolted onto a phone screen.
+
+  ![platform](https://img.shields.io/badge/platform-iOS%2018%2B-3358D6?style=flat-square)
+  ![swift](https://img.shields.io/badge/swift-5-F05138?style=flat-square)
+  ![status](https://img.shields.io/badge/status-testflight%20beta-7DA2FF?style=flat-square)
+  ![license](https://img.shields.io/badge/license-all%20rights%20reserved-lightgrey?style=flat-square)
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/banner.png" width="100%" alt="" />
+</div>
 
 ## what socket does
 
-- a real SSH2 client with an interactive terminal (SwiftTerm-based), Keychain-backed hosts and keys
-- SFTP: browse, upload/download with a concurrent transfer queue, rename/delete/create folders
-- built-in network diagnostics: ping, DNS, traceroute, port check, HTTP inspector, speed test, IP info
-- per-host quick commands, Face ID app lock, and more
+- **real ssh**: an interactive terminal (SwiftTerm), password or key auth, Keychain-backed hosts, host key verification
+- **sftp**: browse, upload/download with a real concurrent transfer queue, rename/delete/create folders
+- **diagnostics**: ping, dns, traceroute, port check, http inspector, speed test, ip info, all real and running on-device
+- **quick commands**: save a command per host, run it in one tap
+- **security**: face id app lock, ssh key generation with real fingerprints, per-host known-hosts checking
+- **built for iOS**: native SwiftUI, light/dark mode, dynamic type, no cross-platform compromise
 
-Socket is currently in TestFlight beta. Public App Store availability will be announced here once ready.
+socket is currently in TestFlight beta. public App Store availability will be announced here once it's ready.
 
-## this repository
+## screenshots
 
-This repo exists for **visibility and support**, not source distribution — Socket's source is closed and maintained in a private repository. Nothing here is licensed for reuse or redistribution.
+coming soon. real device screenshots (the same ones going on the App Store listing) will land here once available.
 
-Found a bug or have a feature request? [Open an issue](../../issues/new/choose) — that's the best way to reach us for anything public. For anything else, reach out at admin@strix.cx.
+## found a bug?
+
+[open an issue](../../issues/new/choose), that's the best way to reach us for anything public. for anything else: admin@strix.cx
+
+## about this repository
+
+this repo exists for visibility and support. socket's source is closed and maintained privately. nothing here is licensed for reuse or redistribution.
 
 ---
 
-© 2026 Strix. All rights reserved.
+<div align="center">
+  <sub>© 2026 STRIX. all rights reserved.</sub>
+</div>
