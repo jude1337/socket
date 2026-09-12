@@ -7,6 +7,8 @@
 
   a modern, native ssh &amp; sftp client for iOS, built to feel like a real apple app, not an admin tool bolted onto a phone screen.
 
+  [socket.strix.cx](https://socket.strix.cx)
+
   ![platform](https://img.shields.io/badge/platform-iOS%2018%2B-3358D6?style=flat-square)
   ![swift](https://img.shields.io/badge/swift-5-F05138?style=flat-square)
   ![status](https://img.shields.io/badge/status-testflight%20beta-7DA2FF?style=flat-square)
@@ -37,6 +39,10 @@ coming soon. real device screenshots (the same ones going on the App Store listi
 ## found a bug?
 
 [open an issue](../../issues/new/choose), that's the best way to reach us for anything public. for anything else: admin@strix.cx
+
+## privacy & terms
+
+[privacy policy](https://socket.strix.cx/privacy) · [terms of service](https://socket.strix.cx/terms)
 
 ## about this repository
 
