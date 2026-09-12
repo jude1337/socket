@@ -1,0 +1,30 @@
+name: Bug report
+description: Something in Socket isn't working right
+labels: [bug]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what actually happened?
+    validations:
+      required: true
+  - type: input
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: e.g. Hosts tab → tap a host → connect
+  - type: input
+    id: version
+    attributes:
+      label: Socket version
+      description: Settings → About → version
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and iOS version
+      placeholder: e.g. iPhone 15 Pro, iOS 18.2
+    validations:
+      required: true
